@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .light-mode {
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  .dark-mode {
+    background-color: #333;
+    color: #f9f9f9;
+  }
+  
+  .app {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .search {
+    margin: 20px 0;
+  }
+  
+  .search input {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .search button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .weather-info {
+    margin-top: 20px;
+  }
+  
+  .error {
+    color: red;
+  }
+  

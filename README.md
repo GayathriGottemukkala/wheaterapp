@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Weather App
+
+## Description
+A weather application that fetches current weather information based on user input using the Open Weather API. The application features dark mode/light mode toggle and displays location, temperature, date, time, humidity, wind speed, and weather description.
+
+## Technologies Used
+- React
+- HTML
+- CSS
+- JavaScript
+
+## How to Run Locally
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/weather-app.git
+   cd weather-app
